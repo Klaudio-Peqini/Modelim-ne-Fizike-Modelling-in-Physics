@@ -9,7 +9,7 @@ Paketat janë:
 1. `biele_manivele_pkg/` – model i mekanizmit **bielë-manivelë**
 2. `lavjerresi_dyfishte_pkg/` – model i **lavjerrësit të dyfishtë**
 
-## Ideja pedagogjike
+## Idetë kryesore
 
 Në notebook, kodi shkruhet zakonisht në mënyrë lineare:
 - përkufizohen parametrat,
