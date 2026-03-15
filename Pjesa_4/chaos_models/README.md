@@ -92,7 +92,7 @@ Në dalje, programi raporton vlerën e $(\lambda)$ dhe jep një interpretim të 
 python3 main.py --model lyapunov_scan --r_min 2.5 --r_max 4.0 --n_r 1000
 ```
 
-Kjo komandë gjeneron figurën ku shihet se në cilat intervale të parametrit \(r\) sistemi ka \(\lambda > 0\), pra sjellje kaotike.
+Kjo komandë gjeneron figurën ku shihet se në cilat intervale të parametrit $r$ sistemi ka $\lambda > 0$, pra sjellje kaotike.
 
 ### 6. Atraktori i Lorencit
 
@@ -102,7 +102,7 @@ python3 main.py --model lorenz --t_max 40 --dt 0.01 --sigma 10 --rho 28 --beta 2
 
 Ky është shembulli klasik i kaosit në një sistem kontinual tridimensional.
 
-### 7. Projeksioni \((x, y)\) i atraktorit të Lorencit
+### 7. Projeksioni $(x, y)$ i atraktorit të Lorencit
 
 ```bash
 python3 main.py --model lorenz_xy --t_max 40 --dt 0.01
