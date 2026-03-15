@@ -94,7 +94,7 @@ Ky model përshkruan rritjen e një popullate kur burimet janë të pakufizuara.
 
 Zgjidhja analitike:
 
-$N(t) = N0 e^(rt)$
+$N(t) = N0 e^{rt}$
 
 ---
 
@@ -134,7 +134,7 @@ $γ$ – norma e shërimit
 
 Numri bazë i riprodhimit:
 
-R0 = β / γ
+$R0 = \frac{β}{γ}$
 
 ---
 
@@ -142,11 +142,11 @@ R0 = β / γ
 
 Ky model përfshin edhe kategorinë:
 
-E – exposed
+$E$ – exposed
 
 që përfaqëson individët e infektuar por jo ende infektivë.
 
-S → E → I → R
+$S → E → I → R$
 
 ---
 
@@ -168,11 +168,13 @@ Ky model është një bazë për modele më të avancuara të trafikut.
 
 Grafikat realizohen nga moduli:
 
+```
 visualization/
 
 - epidemic_curves.py
 - phase_plots.py
 - traffic_simulation.py
+```
 
 ---
 
@@ -180,7 +182,9 @@ visualization/
 
 Instaloni bibliotekat e nevojshme:
 
+```
 python3 -m pip install -r requirements.txt
+```
 
 Bibliotekat:
 
@@ -193,24 +197,25 @@ matplotlib
 # Përdorimi
 
 Modeli demografik:
-
+```
 python3 main.py --model population
-
+```
 Modeli logjistik:
-
+```
 python3 main.py --model logistic
-
+```
 Modeli SIR:
-
+```
 python3 main.py --model sir
-
+```
 Modeli SEIR:
-
+```
 python3 main.py --model seir
-
+```
 Simulimi i trafikut:
-
+```
 python3 main.py --model traffic
+```
 
 ---
 
