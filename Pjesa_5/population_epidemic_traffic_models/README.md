@@ -197,22 +197,31 @@ matplotlib
 # Përdorimi
 
 Modeli demografik:
+
 ```
 python3 main.py --model population
 ```
+
 Modeli logjistik:
+
 ```
 python3 main.py --model logistic
 ```
+
 Modeli SIR:
+
 ```
 python3 main.py --model sir
 ```
+
 Modeli SEIR:
+
 ```
 python3 main.py --model seir
 ```
+
 Simulimi i trafikut:
+
 ```
 python3 main.py --model traffic
 ```
