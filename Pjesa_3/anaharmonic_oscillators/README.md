@@ -66,7 +66,7 @@ Ky version mbështet pesë modele kryesore:
 Krijoni një ambient virtual dhe instaloni varësitë:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 Forma minimale e ekzekutimit është:
 
 ```bash
-python main.py --model MODEL_NAME
+python3 main.py --model MODEL_NAME
 ```
 
 ku `MODEL_NAME` mund të jetë një nga:
@@ -104,7 +104,7 @@ coupled
 ### 1. Oshilatori harmonik
 
 ```bash
-python main.py --model harmonic --omega 1.0 --tmax 30 --dt 0.01 --phase
+python3 main.py --model harmonic --omega 1.0 --tmax 30 --dt 0.01 --phase
 ```
 
 Ky komandim:
@@ -117,7 +117,7 @@ Ky komandim:
 ### 2. Oshilatori anharmonik
 
 ```bash
-python main.py --model anharmonic --omega 1.0 --alpha 0.8 --tmax 40 --phase
+python3 main.py --model anharmonic --omega 1.0 --alpha 0.8 --tmax 40 --phase
 ```
 
 Kjo lejon të analizohet efekti i termit jo-linear në deformimin e lëvizjes.
@@ -125,7 +125,7 @@ Kjo lejon të analizohet efekti i termit jo-linear në deformimin e lëvizjes.
 ### 3. Oshilatori Duffing
 
 ```bash
-python main.py --model duffing --delta 0.2 --alpha -1.0 --beta 1.0 --gamma 0.3 --forcing-omega 1.2 --tmax 100 --phase
+python3 main.py --model duffing --delta 0.2 --alpha -1.0 --beta 1.0 --gamma 0.3 --forcing-omega 1.2 --tmax 100 --phase
 ```
 
 Ky është rasti më interesant për diskutime mbi shumë-stabilitetin, bifurkacionet dhe hyrjen drejt dinamikës kaotike.
@@ -133,7 +133,7 @@ Ky është rasti më interesant për diskutime mbi shumë-stabilitetin, bifurkac
 ### 4. Oshilatori van der Pol
 
 ```bash
-python main.py --model vdp --mu 3.0 --tmax 60 --phase
+python3 main.py --model vdp --mu 3.0 --tmax 60 --phase
 ```
 
 Ky shembull është i përshtatshëm për të vizualizuar ciklin limit.
@@ -141,7 +141,7 @@ Ky shembull është i përshtatshëm për të vizualizuar ciklin limit.
 ### 5. Dy oshilatorë të lidhur
 
 ```bash
-python main.py --model coupled --wx 1.0 --wy 1.2 --eps 0.3 --x0 1.0 --v0 0.0 --y0 0.5 --vy0 0.0 --tmax 50 --phase
+python3 main.py --model coupled --wx 1.0 --wy 1.2 --eps 0.3 --x0 1.0 --v0 0.0 --y0 0.5 --vy0 0.0 --tmax 50 --phase
 ```
 
 Ky rast ilustron shkëmbimin e energjisë ndërmjet dy shkallëve të lirisë.
@@ -153,7 +153,7 @@ Ky rast ilustron shkëmbimin e energjisë ndërmjet dy shkallëve të lirisë.
 Nëse dëshironi që figurat të ruhen në disk, përdorni flag-un `--savefig`:
 
 ```bash
-python main.py --model duffing --phase --savefig --outdir figures
+python3 main.py --model duffing --phase --savefig --outdir figures
 ```
 
 Kjo do të krijojë dosjen `figures/` dhe do të ruajë aty figurat përkatëse, p.sh.:
@@ -164,7 +164,7 @@ Kjo do të krijojë dosjen `figures/` dhe do të ruajë aty figurat përkatëse,
 Mund të ndryshohet edhe rezolucioni:
 
 ```bash
-python main.py --model vdp --phase --savefig --dpi 200
+python3 main.py --model vdp --phase --savefig --dpi 200
 ```
 
 ---
@@ -235,11 +235,11 @@ Ky version mund të zgjerohet në disa drejtime:
 ## Komanda të shpejta të rekomanduara
 
 ```bash
-python main.py --model harmonic --phase
-python main.py --model anharmonic --alpha 1.0 --phase
-python main.py --model duffing --alpha -1 --beta 1 --delta 0.2 --gamma 0.3 --forcing-omega 1.2 --tmax 100 --phase
-python main.py --model vdp --mu 3.0 --phase
-python main.py --model coupled --wx 1.0 --wy 1.2 --eps 0.3 --phase
+python3 main.py --model harmonic --phase
+python3 main.py --model anharmonic --alpha 1.0 --phase
+python3 main.py --model duffing --alpha -1 --beta 1 --delta 0.2 --gamma 0.3 --forcing-omega 1.2 --tmax 100 --phase
+python3 main.py --model vdp --mu 3.0 --phase
+python3 main.py --model coupled --wx 1.0 --wy 1.2 --eps 0.3 --phase
 ```
 
 ---
@@ -251,4 +251,3 @@ Ky folder përfaqëson kalimin nga një material demonstrues drejt një **baze t
 - si material mësimor për studentët,
 - si pikënisje për ushtrime laboratorike,
 - si bazë për zgjerime të mëtejshme në temat e bifurkacioneve dhe kaosit.
-
