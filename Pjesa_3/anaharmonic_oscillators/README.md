@@ -45,28 +45,19 @@ Ky version mbështet pesë modele kryesore:
 
 2. `anharmonic`  
    Oshilatori anharmonik me term kubik:
-   \[
-   \ddot{x} + \omega^2 x + \alpha x^3 = 0
-   \]
+   $\ddot{x} + \omega^2 x + \alpha x^3 = 0$
 
 3. `duffing`  
    Oshilatori Duffing:
-   \[
-   \ddot{x} + \delta \dot{x} + \alpha x + \beta x^3 = \gamma \cos(\omega t)
-   \]
+   $\ddot{x} + \delta \dot{x} + \alpha x + \beta x^3 = \gamma \cos(\omega t)$
 
 4. `vdp`  
    Oshilatori van der Pol:
-   \[
-   \ddot{x} - \mu (1-x^2)\dot{x} + x = 0
-   \]
+   $\ddot{x} - \mu (1-x^2)\dot{x} + x = 0$
 
 5. `coupled`  
    Dy oshilatorë të lidhur:
-   \[
-   \ddot{x} + \omega_x^2 x + \epsilon y = 0, \qquad
-   \ddot{y} + \omega_y^2 y + \epsilon x = 0
-   \]
+   $\ddot{x} + \omega_x^2 x + \epsilon y = 0, \qquad  \ddot{y} + \omega_y^2 y + \epsilon x = 0$
 
 ---
 
