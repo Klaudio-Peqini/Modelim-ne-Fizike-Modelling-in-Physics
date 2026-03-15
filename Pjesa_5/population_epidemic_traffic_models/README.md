@@ -54,6 +54,7 @@ Në këtë repository paraqiten disa nga **modelet më të njohura në literatur
 
 Repository është organizuar në mënyrë modulare për të qenë i lehtë për t’u zgjeruar.
 
+```
 population_epidemic_traffic_models/
 
 models/
@@ -71,6 +72,7 @@ visualization/
 main.py
 README.md
 requirements.txt
+```
 
 Struktura ndjek filozofinë:
 
@@ -86,13 +88,13 @@ Struktura ndjek filozofinë:
 
 Ekuacioni diferencial:
 
-dN/dt = rN
+$\frac{dN}{dt} = rN$
 
 Ky model përshkruan rritjen e një popullate kur burimet janë të pakufizuara.
 
 Zgjidhja analitike:
 
-N(t) = N0 e^(rt)
+$N(t) = N0 e^(rt)$
 
 ---
 
@@ -100,12 +102,12 @@ N(t) = N0 e^(rt)
 
 Ekuacioni:
 
-dN/dt = rN (1 - N/K)
+$\frac{dN}{dt} = rN (1 - N/K)$
 
 ku:
 
-- r është norma e rritjes
-- K është kapaciteti mbajtës
+- $r$ është norma e rritjes
+- $K$ është kapaciteti mbajtës
 
 Modeli përshkruan rritjen reale të popullatave ku burimet janë të kufizuara.
 
@@ -115,20 +117,20 @@ Modeli përshkruan rritjen reale të popullatave ku burimet janë të kufizuara.
 
 Popullata ndahet në tre kategori:
 
-- S – susceptible
-- I – infected
-- R – recovered
+- $S$ – susceptible
+- $I$ – infected
+- $R$ – recovered
 
 Ekuacionet:
 
-dS/dt = -βSI
-dI/dt = βSI - γI
-dR/dt = γI
+$\frac{dS}{dt} = -βSI$
+$\frac{dI}{dt} = βSI - γI$
+$\frac{dR}{dt} = γI$
 
 Parametrat:
 
-β – norma e infektimit  
-γ – norma e shërimit
+$β$ – norma e infektimit  
+$γ$ – norma e shërimit
 
 Numri bazë i riprodhimit:
 
