@@ -57,39 +57,39 @@ pip install -r requirements.txt
 ### 1. Orbita e hartës logjistike
 
 ```bash
-python main.py --model logistic --r 3.7 --x0 0.2 --n_steps 150
+python3 main.py --model logistic --r 3.7 --x0 0.2 --n_steps 150
 ```
 
-Kjo komandë gjeneron evolucionin diskret të vargut \(x_n\) për një vlerë të caktuar të parametrit \(r\).
+Kjo komandë gjeneron evolucionin diskret të vargut \$x_n$ për një vlerë të caktuar të parametrit $r$.
 
 ### 2. Portreti diskret i fazës për hartën logjistike
 
 ```bash
-python main.py --model logistic_phase --r 3.9 --x0 0.21 --n_steps 400
+python3 main.py --model logistic_phase --r 3.9 --x0 0.21 --n_steps 400
 ```
 
-Kjo komandë vizaton \(x_n\) kundrejt \(x_{n+1}\), gjë që ndihmon në kuptimin gjeometrik të dinamikës diskrete.
+Kjo komandë vizaton $x_n$ kundrejt $x_{n+1}$, gjë që ndihmon në kuptimin gjeometrik të dinamikës diskrete.
 
 ### 3. Diagrami i bifurkacionit
 
 ```bash
-python main.py --model bifurcation --r_min 2.5 --r_max 4.0 --n_r 1800 --discard 1200 --keep_last 200
+python3 main.py --model bifurcation --r_min 2.5 --r_max 4.0 --n_r 1800 --discard 1200 --keep_last 200
 ```
 
 Kjo është një nga analizat më të rëndësishme të Pjesës 4, pasi tregon kalimin nga pikë fikse te orbitat periodike dhe më tej te regjimet kaotike.
 
-### 4. Eksponenti i Ljapunovit për një vlerë të vetme të \(r\)
+### 4. Eksponenti i Ljapunovit për një vlerë të vetme të $r$
 
 ```bash
-python main.py --model lyapunov --r 3.95 --x0 0.2 --n_steps 5000 --discard 1000
+python3 main.py --model lyapunov --r 3.95 --x0 0.2 --n_steps 5000 --discard 1000
 ```
 
-Në dalje, programi raporton vlerën e \(\lambda\) dhe jep një interpretim të shkurtër fizik.
+Në dalje, programi raporton vlerën e $(\lambda)$ dhe jep një interpretim të shkurtër fizik.
 
 ### 5. Skanimi i eksponentit të Ljapunovit
 
 ```bash
-python main.py --model lyapunov_scan --r_min 2.5 --r_max 4.0 --n_r 1000
+python3 main.py --model lyapunov_scan --r_min 2.5 --r_max 4.0 --n_r 1000
 ```
 
 Kjo komandë gjeneron figurën ku shihet se në cilat intervale të parametrit \(r\) sistemi ka \(\lambda > 0\), pra sjellje kaotike.
@@ -97,7 +97,7 @@ Kjo komandë gjeneron figurën ku shihet se në cilat intervale të parametrit \
 ### 6. Atraktori i Lorencit
 
 ```bash
-python main.py --model lorenz --t_max 40 --dt 0.01 --sigma 10 --rho 28 --beta 2.6666666667
+python3 main.py --model lorenz --t_max 40 --dt 0.01 --sigma 10 --rho 28 --beta 2.6666666667
 ```
 
 Ky është shembulli klasik i kaosit në një sistem kontinual tridimensional.
@@ -105,13 +105,13 @@ Ky është shembulli klasik i kaosit në një sistem kontinual tridimensional.
 ### 7. Projeksioni \((x, y)\) i atraktorit të Lorencit
 
 ```bash
-python main.py --model lorenz_xy --t_max 40 --dt 0.01
+python3 main.py --model lorenz_xy --t_max 40 --dt 0.01
 ```
 
 ### 8. Ndjeshmëria ndaj kushteve fillestare në sistemin e Lorencit
 
 ```bash
-python main.py --model lorenz_sensitivity --delta0 1e-8 --t_max 20 --dt 0.01
+python3 main.py --model lorenz_sensitivity --delta0 1e-8 --t_max 20 --dt 0.01
 ```
 
 Kjo komandë vizaton rritjen e distancës mes dy trajektoreve që nisin shumë pranë njëra-tjetrës.
