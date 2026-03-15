@@ -1,0 +1,114 @@
+[
+  {
+    "id": "p1",
+    "title": "Hyrje në fizikën kompjuterike",
+    "content": "Ky material shpjegon bazat e fizikës kompjuterike, simulimet numerike dhe modelimin.",
+    "tags": [
+      "fizike",
+      "simulim",
+      "modelim"
+    ],
+    "links_to": [
+      "p2",
+      "p3",
+      "p5"
+    ],
+    "last_updated": "2026-03-01",
+    "quality_score": 0.92,
+    "user_signal": 0.84,
+    "spam_score": 0.05
+  },
+  {
+    "id": "p2",
+    "title": "PageRank dhe renditja e faqeve",
+    "content": "Diskutohet PageRank, teleportimi, grafet e drejtuara dhe algoritmet e kërkimit në web.",
+    "tags": [
+      "pagerank",
+      "web",
+      "algoritme",
+      "fizike"
+    ],
+    "links_to": [
+      "p3",
+      "p4"
+    ],
+    "last_updated": "2026-03-12",
+    "quality_score": 0.95,
+    "user_signal": 0.88,
+    "spam_score": 0.03
+  },
+  {
+    "id": "p3",
+    "title": "Algoritme për kërkim shkencor",
+    "content": "Material mbi algoritmet, analizën numerike, optimizimin dhe përpunimin e të dhënave shkencore.",
+    "tags": [
+      "algoritme",
+      "kerkimi",
+      "numerike"
+    ],
+    "links_to": [
+      "p1",
+      "p2",
+      "p5"
+    ],
+    "last_updated": "2026-02-20",
+    "quality_score": 0.9,
+    "user_signal": 0.72,
+    "spam_score": 0.07
+  },
+  {
+    "id": "p4",
+    "title": "Lajme teknologjie dhe AI",
+    "content": "Përmbajtje e re mbi inteligjencën artificiale, modelet, risitë dhe aplikimet moderne.",
+    "tags": [
+      "ai",
+      "teknologji",
+      "lajme"
+    ],
+    "links_to": [
+      "p2",
+      "p6"
+    ],
+    "last_updated": "2026-03-14",
+    "quality_score": 0.7,
+    "user_signal": 0.8,
+    "spam_score": 0.12
+  },
+  {
+    "id": "p5",
+    "title": "Modelim matematikor në shkencë",
+    "content": "Një hyrje në modelimin matematikor, ekuacionet diferenciale dhe algoritmet kompjuterike.",
+    "tags": [
+      "modelim",
+      "matematike",
+      "fizike"
+    ],
+    "links_to": [
+      "p1",
+      "p2"
+    ],
+    "last_updated": "2026-01-15",
+    "quality_score": 0.89,
+    "user_signal": 0.75,
+    "spam_score": 0.04
+  },
+  {
+    "id": "p6",
+    "title": "Ofertë e shpejtë për trafik artificial",
+    "content": "Klikime të shpejta, lidhje të shumta, promovim artificial dhe përmbajtje e cekët.",
+    "tags": [
+      "trafik",
+      "promovim",
+      "klikime"
+    ],
+    "links_to": [
+      "p2",
+      "p4",
+      "p6"
+    ],
+    "last_updated": "2026-03-13",
+    "quality_score": 0.2,
+    "user_signal": 0.35,
+    "spam_score": 0.95
+  }
+]
