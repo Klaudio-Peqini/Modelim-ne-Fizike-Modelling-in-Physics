@@ -13,7 +13,7 @@ Në këtë pjesë trajtohen disa nga konceptet më themelore të dinamikës joli
 ## Struktura e projektit
 
 ```text
-chaos_models_pjesa4/
+chaos_models/
 │
 ├── models/
 │   ├── logistic_map.py
