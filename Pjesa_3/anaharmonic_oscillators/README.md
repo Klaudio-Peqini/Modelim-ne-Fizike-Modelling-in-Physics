@@ -12,7 +12,7 @@ Ky folder përmban një version më të strukturuar dhe më të afërt me një *
 ## Struktura e folderit
 
 ```text
-Pjesa_3_kod_prodhimi/
+anharmonic_oscillators/
 ├── main.py
 ├── oscillator_models.py
 ├── requirements.txt
