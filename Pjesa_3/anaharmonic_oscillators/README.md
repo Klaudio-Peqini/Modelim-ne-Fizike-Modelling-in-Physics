@@ -41,9 +41,7 @@ Ky version mbështet pesë modele kryesore:
 
 1. `harmonic`  
    Oshilatori harmonik klasik:
-   $
-   \ddot{x} + \omega^2 x = 0
-   $
+   $\ddot{x} + \omega^2 x = 0$
 
 2. `anharmonic`  
    Oshilatori anharmonik me term kubik:
