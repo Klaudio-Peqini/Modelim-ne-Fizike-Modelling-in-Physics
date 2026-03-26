@@ -26,7 +26,7 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 
 ## Struktura e Repository
 
--   Part_0/ -- Dokumenti hyrës strategjik
+-   Pjesa_0/ -- Dokumenti hyrës strategjik
 -   Part_1/ -- Themelet e modelimit & Integratorë numerikë
 -   Part_2/ -- Sisteme dinamike klasike dhe ODE
 -   Part_3/ -- Sisteme lëkundëse jolineare
