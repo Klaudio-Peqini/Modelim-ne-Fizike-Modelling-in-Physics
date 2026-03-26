@@ -28,7 +28,7 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 
 -   Pjesa_0/ -- Dokumenti hyrës strategjik
 -   Pjesa_1/ -- Themelet e modelimit & Integratorë numerikë
--   Part_2/ -- Sisteme dinamike klasike dhe ODE
+-   Pjesa_2/ -- Sisteme dinamike klasike dhe ODE
 -   Part_3/ -- Sisteme lëkundëse jolineare
 -   Part_4/ -- Kaosi dhe sistemet kaotike
 -   Part_5/ -- Modele demografike, epidemike dhe trafiku
