@@ -9,7 +9,7 @@ Ky repository është një “mini-produkt” didaktik që tregon si kalohet nga
 ## Instalimi (rekomanduar)
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
 pip install -r requirements-dev.txt
@@ -18,8 +18,8 @@ pip install -r requirements-dev.txt
 ## Shembull ekzekutimi
 
 ```bash
-python scripts/run_oscillator.py --omega 2.0 --dt 0.05 --t-end 50 --method verlet --out out_verlet.csv
-python scripts/plot_results.py --csv out_verlet.csv --omega 2.0
+python3 scripts/run_oscillator.py --omega 2.0 --dt 0.05 --t-end 50 --method verlet --out out_verlet.csv
+python3 scripts/plot_results.py --csv out_verlet.csv --omega 2.0
 ```
 
 ## Qëllimi pedagogjik
