@@ -32,7 +32,7 @@ ato sisteme dinamike ku nuk propozohet ndonjë Lagranzhian specifik.
 -   Pjesa_3/ -- Sisteme lëkundëse jolineare
 -   Pjesa_4/ -- Kaosi dhe sistemet kaotike
 -   Pjesa_5/ -- Modele demografike, epidemike dhe trafiku
--   Part_6/ -- Algoritme renditjeje
+-   Pjesa_6/ -- Algoritme renditjeje
 -   Detyra_Assignments/
 -   Projekte_Projects/
 
