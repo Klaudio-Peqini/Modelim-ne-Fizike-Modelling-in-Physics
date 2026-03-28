@@ -1,115 +1,127 @@
-# Modelling in Physics (Modelim në Fizikë)
+# Modelim në Fizikë (Modelling in Physics)
 
-## Overview
+## Përmbledhje
 
-This repository contains a comprehensive collection of computational and theoretical materials for the course **"Modelling in Physics"**. The aim is to bridge the gap between **analytical physics**, **numerical methods**, and **modern computational practices**, providing students with both conceptual understanding and production-level coding skills.
+Ky repository përmban materiale teorike dhe praktike për lëndën **"Modelim në Fizikë"**, me qëllim lidhjen midis **formulimit analitik**, **metodave numerike** dhe **implementimit kompjuterik modern**.
 
----
-
-## Objectives
-
-- Develop intuition for physical modelling
-- Transition from equations to computational implementations
-- Understand numerical and stochastic methods
-- Explore nonlinear dynamics and chaos
-- Apply modelling to real-world systems
-- Work in structured, collaborative scientific environments
+Qëllimi është që studentët të kalojnë nga ekuacionet fizike drejt simulimeve reale dhe kodit profesional.
 
 ---
 
-## Repository Structure
+## Objektivat
+
+- Zhvillimi i intuitës fizike në modelim
+- Kalimi nga formulat në implementim kompjuterik
+- Kuptimi i metodave numerike dhe stokastike
+- Studimi i sistemeve jolineare dhe kaotike
+- Aplikimi në probleme reale
+- Punë në grup dhe zhvillim projektesh
+
+---
+
+## Struktura e Repository
 
 ```
 Modelling-in-Physics/
-└── Projekte/  # Student group projects
+│
+├── Pjesa_0/
+├── Pjesa_1/
+├── Pjesa_2/
+├── Pjesa_3/
+├── Pjesa_4/
+├── Pjesa_5/
+│
+├── Projects/      # Projektet e studenteve
+├── notebooks/
+├── production_code/
+├── data/
+├── results/
+│
+├── README.md
+└── requirements.txt
 ```
 
 ---
 
-## The `Projects/` Folder – Philosophy of Assignments
+## Folderi `Projects/` – Filozofia e Projekteve
 
-The **Projects/** folder is a central pedagogical component of this repository. It is designed to simulate **real scientific research environments** and to encourage **collaborative, project-based learning**.
+Folderi **Projects/** përfaqëson një nga komponentët më të rëndësishëm pedagogjikë të kursit.
 
-### Core Idea
-
-Students are divided into groups, and each group is assigned a **modelling project** that:
-
-- Extends concepts learned in the course
-- Requires both **theoretical understanding** and **computational implementation**
-- Encourages **independent thinking and problem-solving**
+Ai është konceptuar për të simuluar një **ambient kërkimor real shkencor** dhe për të zhvilluar aftësi bashkëpunimi.
 
 ---
 
-### Educational Goals
+### Ideja Kryesore
 
-Each project is designed so that students:
+Studentët ndahen në grupe dhe secilit grup i caktohet një projekt që:
 
-- Translate a physical or real-world problem into a **mathematical model**
-- Implement the model using **Python (or other languages when appropriate)**
-- Perform **numerical simulations**
-- Analyze results scientifically
-- Present findings in a **professional format**
+- Zgjeron konceptet e kursit
+- Kërkon kuptim teorik dhe implementim praktik
+- Nxit mendimin kritik dhe të pavarur
 
 ---
 
-### Structure of Each Project
+### Qëllimet Edukative
 
-Each group project should typically include:
+Studentët do të:
+
+- Formulojnë një problem fizik në mënyrë matematikore
+- Ndërtojnë modelin kompjuterik
+- Kryejnë simulime numerike
+- Analizojnë rezultatet
+- Prezantojnë punën në mënyrë profesionale
+
+---
+
+### Struktura e një Projekti
 
 ```
 project_name/
 │
-├── README.md              # Description of the problem
-├── theory/                # Mathematical formulation
-├── code/                  # Simulation scripts
-├── data/                  # Input/output datasets
-├── results/               # Figures and analysis
-└── report/                # Final scientific report (PDF/LaTeX)
+├── README.md
+├── theory/
+├── code/
+├── data/
+├── results/
+└── report/
 ```
 
 ---
 
-### Types of Projects
+### Llojet e Projekteve
 
-Projects may include:
-
-- Physical systems (oscillators, pendula, fluids)
-- Epidemiological models (SIR, SEIR extensions)
-- Traffic and transport models
-- Network models (PageRank, diffusion)
-- Stochastic processes
-- Data-driven modelling
+- Sisteme fizike
+- Modele epidemiologjike
+- Modele trafiku
+- Rrjete dhe algoritme (PageRank)
+- Procese stokastike
+- Modelim i bazuar në të dhëna
 
 ---
 
-### Collaboration Philosophy
+### Filozofia e Bashkëpunimit
 
-Students are expected to:
+Studentët duhet të:
 
-- Work in **teams**
-- Use **Git/GitHub workflows**
-- Divide tasks (theory, coding, analysis)
-- Review each other’s work
-- Maintain **clear documentation**
-
-This mirrors real-world scientific collaboration.
+- Punojnë në grup
+- Përdorin Git/GitHub
+- Ndarje rolesh
+- Dokumentim i qartë
 
 ---
 
-### Evaluation Criteria
+### Kriteret e Vlerësimit
 
-Projects are evaluated based on:
-
-- Correctness of the physical and mathematical model
-- Quality of the code (structure, readability, robustness)
-- Depth of analysis
-- Visualization and interpretation of results
-- Clarity of the final report
-- Team collaboration
+- Saktësia fizike dhe matematikore
+- Cilësia e kodit
+- Analiza e rezultateve
+- Vizualizimi
+- Raporti final
+- Bashkëpunimi
 
 ---
 
-## Installation
+## Instalimi
 
 ```bash
 git clone https://github.com/Klaudio-Peqini/Modelim-ne-Fizike-Modelling-in-Physics.git
@@ -122,7 +134,7 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+## Përdorimi
 
 ```bash
 python3 main.py --model oscillator
@@ -132,32 +144,29 @@ python3 main.py --model chaos
 
 ---
 
-## Numerical Methods
+## Metodat Numerike
 
 - Euler
-- Runge-Kutta (RK4)
+- Runge-Kutta
 - Verlet
 - Euler-Maruyama
-- Stochastic Runge-Kutta
+- Metoda stokastike
 
 ---
 
-## Pedagogical Philosophy
+## Filozofia Pedagogjike
 
-This repository follows a **dual structure**:
-
-- **Notebooks → Understanding**
-- **Production Code → Professional Practice**
+- Notebook → kuptim
+- Kod profesional → aplikim
 
 ---
 
-## Author
+## Autori
 
-Klaudio Peqini  
-Physicist & Lecturer  
+Klaudio Peqini
 
 ---
 
-## License
+## Licenca
 
-Educational and research use.
+Për përdorim edukativ dhe kërkimor.
