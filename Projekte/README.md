@@ -21,7 +21,7 @@ This repository contains a comprehensive collection of computational and theoret
 
 ```
 Modelling-in-Physics/
-└── Projects/  # Student group projects
+└── Projekte/  # Student group projects
 ```
 
 ---
