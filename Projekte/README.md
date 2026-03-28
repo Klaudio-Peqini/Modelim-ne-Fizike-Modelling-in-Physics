@@ -24,14 +24,14 @@ Qëllimi është që studentët të kalojnë nga ekuacionet fizike drejt simulim
 ```
 Modelling-in-Physics/
 │
-└── Projects/      # Projektet e studenteve
+└── Projekte/      # Projektet e studenteve
 ```
 
 ---
 
-## Folderi `Projects/` – Filozofia e Projekteve
+## Folderi `Projekte/` – Filozofia e Projekteve
 
-Folderi **Projects/** përfaqëson një nga komponentët më të rëndësishëm pedagogjikë të kursit.
+Folderi **Projekte/** përfaqëson një nga komponentët më të rëndësishëm pedagogjikë të kursit.
 
 Ai është konceptuar për të simuluar një **ambient kërkimor real shkencor** dhe për të zhvilluar aftësi bashkëpunimi.
 
