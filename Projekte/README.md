@@ -24,21 +24,7 @@ Qëllimi është që studentët të kalojnë nga ekuacionet fizike drejt simulim
 ```
 Modelling-in-Physics/
 │
-├── Pjesa_0/
-├── Pjesa_1/
-├── Pjesa_2/
-├── Pjesa_3/
-├── Pjesa_4/
-├── Pjesa_5/
-│
-├── Projects/      # Projektet e studenteve
-├── notebooks/
-├── production_code/
-├── data/
-├── results/
-│
-├── README.md
-└── requirements.txt
+└── Projects/      # Projektet e studenteve
 ```
 
 ---
