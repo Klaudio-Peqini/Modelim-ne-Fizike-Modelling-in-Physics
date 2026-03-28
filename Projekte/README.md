@@ -107,46 +107,6 @@ Studentët duhet të:
 
 ---
 
-## Instalimi
-
-```bash
-git clone https://github.com/Klaudio-Peqini/Modelim-ne-Fizike-Modelling-in-Physics.git
-cd Modelim-ne-Fizike-Modelling-in-Physics
-
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
----
-
-## Përdorimi
-
-```bash
-python3 main.py --model oscillator
-python3 main.py --model sir
-python3 main.py --model chaos
-```
-
----
-
-## Metodat Numerike
-
-- Euler
-- Runge-Kutta
-- Verlet
-- Euler-Maruyama
-- Metoda stokastike
-
----
-
-## Filozofia Pedagogjike
-
-- Notebook → kuptim
-- Kod profesional → aplikim
-
----
-
 ## Autori
 
 Klaudio Peqini
