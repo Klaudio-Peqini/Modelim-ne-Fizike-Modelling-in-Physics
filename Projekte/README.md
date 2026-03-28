@@ -21,22 +21,7 @@ This repository contains a comprehensive collection of computational and theoret
 
 ```
 Modelling-in-Physics/
-│
-├── Pjesa_0/   # Foundations
-├── Pjesa_1/   # Oscillatory systems
-├── Pjesa_2/   # Nonlinear oscillations
-├── Pjesa_3/   # Chaos
-├── Pjesa_4/   # Applied models
-├── Pjesa_5/   # Algorithms & networks
-│
-├── Projects/  # Student group projects
-├── notebooks/
-├── production_code/
-├── data/
-├── results/
-│
-├── README.md
-└── requirements.txt
+└── Projects/  # Student group projects
 ```
 
 ---
