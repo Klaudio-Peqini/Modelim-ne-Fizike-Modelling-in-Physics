@@ -1,23 +1,388 @@
-# Prezenca e studentëve
+# Presenca e studentëve
 
-| Nr. | Studenti | Ora 1 | Ora 2 | Ora 3 | Ora 4 | Ora 5 | Ora 6 | Ora 7 | Ora 8 | Ora 9 | Ora 10 | Ora 11 | Ora 12 | Ora 13 | Ora 14 | Ora 15 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Alda$nbsp;Xhika |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2 | Andja$nbsp;Milloshi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 | Arlind Laçka |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 | Arlinda Shkina |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5 | Azem Elezaj |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6 | Donaldo Shtjefni |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7 | Eglant Laçka |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 8 | Erik Çupi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 9 | Flavia Zhllima |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | Henri Kondakciu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 11 | Jonida Klari |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 12 | Kejsi Seferi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 13 | Klaus Dragjoshi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 14 | Klevio Shtëmbari |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 15 | Kristi Lluka |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 16 | Lusinda Luzi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 17 | Memo Kojdheli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 18 | Redian Dida |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 19 | Vjorisa Cani |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th>Nr</th>
+      <th>Studenti</th>
+      <th>O1</th>
+      <th>O2</th>
+      <th>O3</th>
+      <th>O4</th>
+      <th>O5</th>
+      <th>O6</th>
+      <th>O7</th>
+      <th>O8</th>
+      <th>O9</th>
+      <th>O10</th>
+      <th>O11</th>
+      <th>O12</th>
+      <th>O13</th>
+      <th>O14</th>
+      <th>O15</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td style="white-space: nowrap;">Alda Xhika</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td style="white-space: nowrap;">Andja Milloshi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td style="white-space: nowrap;">Arlind Laçka</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td style="white-space: nowrap;">Arlinda Shkina</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td style="white-space: nowrap;">Azem Elezaj</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td style="white-space: nowrap;">Donaldo Shtjefni</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td style="white-space: nowrap;">Eglant Laçka</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td style="white-space: nowrap;">Erik Çupi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td style="white-space: nowrap;">Flavia Zhllima</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td style="white-space: nowrap;">Henri Kondakciu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td style="white-space: nowrap;">Jonida Klari</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td style="white-space: nowrap;">Kejsi Seferi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td style="white-space: nowrap;">Klaus Dragjoshi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td style="white-space: nowrap;">Klevio Shtëmbari</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td style="white-space: nowrap;">Kristi Lluka</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td style="white-space: nowrap;">Lusinda Luzi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td style="white-space: nowrap;">Memo Kojdheli</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td style="white-space: nowrap;">Redian Dida</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td style="white-space: nowrap;">Vjorisa Cani</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
