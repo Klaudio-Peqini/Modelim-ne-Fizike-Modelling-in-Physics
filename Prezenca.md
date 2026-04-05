@@ -1,4 +1,4 @@
-# Prezenca e studentëve                                                               
+# Prezenca e studentëve                                                                
 
 | Nr. | Studenti | Ora 1 | Ora 2 | Ora 3 | Ora 4 | Ora 5 | Ora 6 | Ora 7 | Ora 8 | Ora 9 | Ora 10 | Ora 11 | Ora 12 | Ora 13 | Ora 14 | Ora 15 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
