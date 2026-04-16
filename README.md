@@ -1,5 +1,5 @@
 # Modelimi në Fizikë                       
-
+ 
 ## Përshkrimi i përgjithshëm
 
 Ky repozitor (shkurt: repo) përmban materialet e plota për kursin universitar
