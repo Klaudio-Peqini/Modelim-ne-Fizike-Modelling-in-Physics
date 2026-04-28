@@ -181,6 +181,7 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
 
 ## Shënime metodologjike
 
-- Vlerësimi i projekteve mund të bazohet në kontributin individual, cilësinë e analizës, korrektësinë shkencore, qartësinë e prezantimit dhe respektimin e afateve.
+- Vlerësimi i projekteve bazohet në kontributin individual, cilësinë e analizës, korrektësinë shkencore, qartësinë e prezantimit dhe respektimin e afateve.
+- Për secilin projekt, në repon në GitHub do të shënohet qartësisht kontributi i secilit student.
 - Nota ose pikët e projektit mund të dallojnë ndërmjet studentëve të të njëjtit grup, kur kontributi individual nuk është i njëjtë.
 - Kolona “Provimi përfundimtar” plotësohet veçmas nga vlerësimi i projekteve.
