@@ -105,10 +105,10 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Donald Shtjefni</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>20</td>
+      <td>10</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>3</td>
