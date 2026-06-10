@@ -97,10 +97,10 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 4</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Klaus Dragjoshi</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>10</td>
+      <td>10</td>
+      <td>35</td>
     </tr>
     <tr>
       <td>2</td>
