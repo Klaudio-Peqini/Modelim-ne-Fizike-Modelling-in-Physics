@@ -189,9 +189,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 6</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Lusinda Luzi</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -199,9 +199,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Flavia Zhllima</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -209,9 +209,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Andja Milloshi</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>
