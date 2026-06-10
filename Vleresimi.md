@@ -158,9 +158,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Redian Dida</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>20</td>
+      <td>20</td>
+      <td>20</td>
       <td></td>
       <td></td>
       <td></td>
