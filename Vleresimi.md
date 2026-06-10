@@ -120,7 +120,7 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>15</td>
       <td>10</td>
       <td>10</td>
-      <td>35</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -130,7 +130,7 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>20</td>
       <td>10</td>
-      <td>40</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -140,7 +140,7 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>15</td>
-      <td>35</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
