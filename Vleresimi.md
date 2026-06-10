@@ -15,8 +15,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <th>Projekti 2</th>
       <th>Projekti 3</th>
       <th>Provimi përfundimtar</th>
-      <th>Totali<th>
-      <th>Totali<th>
+      </th>Totali</th>
+      </th>Nota</th>
     </tr>
   </thead>
   <tbody>
