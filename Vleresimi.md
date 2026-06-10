@@ -15,6 +15,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <th>Projekti 2</th>
       <th>Projekti 3</th>
       <th>Provimi përfundimtar</th>
+      <th>Totali<th>
+      <th>Totali<th>
     </tr>
   </thead>
   <tbody>
@@ -22,6 +24,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 1</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Azem Elezaj</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -34,10 +38,14 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Vjorisa Cani</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -51,6 +59,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
@@ -59,10 +69,14 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Memo Kojdheli</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -76,6 +90,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
@@ -84,10 +100,14 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Arlinda Shkina</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -101,6 +121,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>35</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
@@ -109,12 +131,16 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>20</td>
       <td>10</td>
       <td>40</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Erik Cupi</td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>15</td>
+      <td>35</td>
       <td></td>
       <td></td>
     </tr>
@@ -122,6 +148,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="4" style="white-space: nowrap;"><strong>Grupi 5</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Klevio Shtembari</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -134,6 +162,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
@@ -142,10 +172,14 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
       <td style="white-space: nowrap;">Kristi Lluka</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -159,6 +193,8 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
@@ -167,10 +203,14 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Andja Milloshi</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
