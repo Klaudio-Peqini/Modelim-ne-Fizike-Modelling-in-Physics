@@ -55,9 +55,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 2</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Arlind Lacka</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>17</td>
+      <td>17</td>
       <td></td>
       <td></td>
       <td></td>
@@ -65,9 +65,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Henri Kondakciu</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>11</td>
+      <td>12</td>
+      <td>17</td>
       <td></td>
       <td></td>
       <td></td>
