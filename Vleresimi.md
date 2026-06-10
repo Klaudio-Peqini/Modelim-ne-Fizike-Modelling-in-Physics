@@ -86,9 +86,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 3</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Jonida Klari</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>
@@ -96,9 +96,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Alda Xhika</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>
@@ -106,9 +106,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Arlinda Shkina</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>
