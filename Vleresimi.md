@@ -65,12 +65,12 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Henri Kondakciu</td>
-      <td>11</td>
+      <td>13</td>
       <td>12</td>
       <td>17</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>20</td>
+      <td>62</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>3</td>
