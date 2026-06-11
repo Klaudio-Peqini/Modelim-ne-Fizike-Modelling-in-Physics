@@ -75,12 +75,12 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Memo Kojdheli</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
     </tr>
     <tr>
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 3</strong></td>
