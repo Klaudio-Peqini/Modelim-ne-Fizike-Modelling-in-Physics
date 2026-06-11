@@ -151,9 +151,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>15</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>45</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>2</td>
