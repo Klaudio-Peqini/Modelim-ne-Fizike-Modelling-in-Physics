@@ -27,9 +27,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>15</td>
       <td>13</td>
       <td>12</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>32</td>
+      <td>72</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>2</td>
