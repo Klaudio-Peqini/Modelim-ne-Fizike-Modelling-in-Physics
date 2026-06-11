@@ -148,9 +148,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td rowspan="4" style="white-space: nowrap;"><strong>Grupi 5</strong></td>
       <td>1</td>
       <td style="white-space: nowrap;">Klevio Shtembari</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>15</td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>
@@ -178,9 +178,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>4</td>
       <td style="white-space: nowrap;">Kristi Lluka</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
       <td></td>
       <td></td>
       <td></td>
