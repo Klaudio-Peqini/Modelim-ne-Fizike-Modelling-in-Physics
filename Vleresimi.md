@@ -160,10 +160,10 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td style="white-space: nowrap;">Redian Dida</td>
       <td>20</td>
       <td>20</td>
-      <td>20</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>40</td>
+      <td>95</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>3</td>
