@@ -34,12 +34,12 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>2</td>
       <td style="white-space: nowrap;">Kejsi Sefer</td>
+      <td>12</td>
       <td>10</td>
       <td>10</td>
-      <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>40</td>
+      <td>72</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>3</td>
