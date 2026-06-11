@@ -58,9 +58,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>15</td>
       <td>17</td>
       <td>17</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>34</td>
+      <td>85</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>2</td>
@@ -89,9 +89,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>35</td>
+      <td>65</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>2</td>
@@ -99,9 +99,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>45</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>3</td>
@@ -109,9 +109,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>45</td>
+      <td>5</td>
     </tr>
     <tr>
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 4</strong></td>
@@ -120,9 +120,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>15</td>
       <td>10</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>28</td>
+      <td>63</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>2</td>
@@ -130,9 +130,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>20</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>40</td>
+      <td>80</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>3</td>
@@ -140,9 +140,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>15</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>16</td>
+      <td>51</td>
+      <td>6</td>
     </tr>
     <tr>
       <td rowspan="4" style="white-space: nowrap;"><strong>Grupi 5</strong></td>
@@ -171,7 +171,7 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>25</td>
       <td></td>
       <td></td>
     </tr>
@@ -192,9 +192,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>2</td>
@@ -202,9 +202,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>3</td>
@@ -212,9 +212,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>10</td>
       <td>10</td>
       <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>45</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table>
