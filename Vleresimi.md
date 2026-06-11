@@ -181,9 +181,9 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>15</td>
       <td>15</td>
       <td>15</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>40</td>
+      <td>85</td>
+      <td>9</td>
     </tr>
     <tr>
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 6</strong></td>
