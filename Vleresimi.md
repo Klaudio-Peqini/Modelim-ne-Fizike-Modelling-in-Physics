@@ -168,12 +168,12 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
     <tr>
       <td>3</td>
       <td style="white-space: nowrap;">Eglant Lacka</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>10</td>
       <td>25</td>
-      <td></td>
-      <td></td>
+      <td>55</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>4</td>
