@@ -45,11 +45,11 @@ Edhe pse projektet zhvillohen në grup, vlerësimi regjistrohet në mënyrë të
       <td>3</td>
       <td style="white-space: nowrap;">Vjorisa Cani</td>
       <td>12</td>
-      <td>13</td>
+      <td>11</td>
       <td>15</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>40</td>
+      <td>78</td>
+      <td>8</td>
     </tr>
     <tr>
       <td rowspan="3" style="white-space: nowrap;"><strong>Grupi 2</strong></td>
