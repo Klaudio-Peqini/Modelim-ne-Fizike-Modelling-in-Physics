@@ -1,4 +1,4 @@
-# Modelimi në Fizikë         
+# Modelimi në Fizikë          
 
 ## Përshkrimi i përgjithshëm
 
