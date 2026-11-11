@@ -1,7 +1,7 @@
 # Modelimi në Fizikë                          
             
 Përshkrimi i përgjithshëm        
-         
+          
 Ky repozitor (shkurt: repo) përmban materialet e plota për kursin universitar     
 "Modelimi në Fizikë", i konceptuar si vazhdim numerik dhe kompjuterik i   
 Mekanikës Analitike dhe jo vetëm.  
